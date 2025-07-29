@@ -61,8 +61,8 @@ $db   = 'mx_controller';
 ## 📸 Screenshots
 ## Screenshots
 
-### Create User Page 
-![Create user](create user.PNG)
+### create user Page
+![create_user](create user.PNG)
 
 ### Dashboard1 Page
 ![Dashboard1](dashboard1.PNG)
