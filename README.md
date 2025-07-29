@@ -73,7 +73,7 @@ $db   = 'mx_controller';
 ### Devices Page
 ![Devices](dashboard2.PNG)
 
-### LogIn  Page
+### Login Page
 ![Login](Login Page.PNG)
 
 ### Logs Page
