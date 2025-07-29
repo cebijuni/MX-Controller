@@ -1,4 +1,4 @@
-MX Controller - Traffic Management System
+*MX Controller - Traffic Management System*
 
 A **web-based traffic management platform** designed to monitor and manage MX traffic controller devices in real time.  
 This system provides **live status updates, alerts, location visualization, and performance analytics**.
