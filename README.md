@@ -60,8 +60,9 @@ $db   = 'mx_controller';
 
 ## 📸 Screenshots
 ## Screenshots
-### Create User Page
-![Create User](images/create_user.PNG)
+
+### Login Page
+![Login Page](login_page.PNG)
 
 ### Dashboard1 Page
 ![Dashboard1](dashboard1.PNG)
@@ -72,9 +73,8 @@ $db   = 'mx_controller';
 ### Devices Page
 ![Devices](dashboard2.PNG)
 
-### Login Page
-![Login Page](images/login_page.PNG)
-
+### Create User Page
+![Create User](create_user.PNG)
 ### Logs Page
 ![Logs](logs.PNG)
 
