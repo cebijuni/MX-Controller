@@ -59,7 +59,6 @@ $db   = 'mx_controller';
 ---
 
 ## 📸 Screenshots
-## Screenshots
 
 ### Login Page
 ![Login Page](LoginPage.PNG)
