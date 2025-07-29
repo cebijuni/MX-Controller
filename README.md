@@ -1,11 +1,11 @@
-*MX Controller - Traffic Management System*
+## *MX Controller - Traffic Management System*
 
 A **web-based traffic management platform** designed to monitor and manage MX traffic controller devices in real time.  
 This system provides **live status updates, alerts, location visualization, and performance analytics**.
 
 ---
 
-🚦 Features
+## 🚦 Features
 - **Device Management** – Add, edit, and delete MX controller devices.  
 - **Controller Types** – Supports MX Maxi, MX STD, MX Lite, MX M20, and MX Pedestrian controllers.  
 - **Real-Time Alerts** – Receive instant notifications with sound when devices go offline or online.  
@@ -16,7 +16,7 @@ This system provides **live status updates, alerts, location visualization, and 
 
 ---
 
-🛠️ Installation
+## 🛠️ Installation
 1. Clone the Repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/mx-controller.git
