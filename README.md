@@ -78,7 +78,7 @@ $db   = 'mx_controller';
 ### Logs Page
 ![Logs](logs.PNG)
 
-### users Page
+### Users Page
 ![users](users.PNG)
 
 ---
