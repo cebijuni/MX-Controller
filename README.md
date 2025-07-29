@@ -71,7 +71,7 @@ $db   = 'mx_controller';
 ![Dashboard2](dashboard2.PNG)
 
 ### Devices Page
-![Devices](dashboard2.PNG)
+![Devices](devices.PNG)
 
 ### Create User Page
 ![Create User](createuser.PNG)
