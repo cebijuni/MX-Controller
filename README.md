@@ -19,7 +19,7 @@ This system provides **live status updates, alerts, location visualization, and 
 ## 🛠️ Installation
 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/mx-controller.git
+git clone https://github.com/cebijuni/mx-controller.git
 cd mx-controller
 ````
 
