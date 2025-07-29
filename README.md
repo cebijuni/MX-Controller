@@ -59,8 +59,28 @@ $db   = 'mx_controller';
 ---
 
 ## 📸 Screenshots
+## Screenshots
 
+### Create User Page 
+![Create user]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\create user.PNG")
 
+### Dashboard1 Page
+![Dashboard1]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\dashboard1.PNG")
+
+### Dahboard2 Page
+![Dashboard2]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\dashboard2.PNG")
+
+### Devices Page
+![Devices]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\devices.PNG")
+
+### LogIn  Page
+![Login]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\Login Page.PNG")
+
+### Logs Page
+![Logs]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\Login Page.PNG")
+
+### Users Page
+![Users]("C:\Users\Admin\Desktop\PROJECTS\SCREENSHOT\users.PNG")
 ---
 
 ## 👨‍💻 Authors
