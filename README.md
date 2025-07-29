@@ -65,7 +65,7 @@ $db   = 'mx_controller';
 ![Create user](create user.PNG)
 
 ### Dashboard1 Page
-![Dashboard1]("(images/dashboard1.png")
+![Dashboard1](dashboard1.PNG)
 
 ### Dahboard2 Page
 ![Dashboard2](dashboard2.PNG)
