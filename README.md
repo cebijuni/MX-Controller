@@ -67,7 +67,7 @@ $db   = 'mx_controller';
 
 * **Created by:** *Cebisile Bosman*
 * **Email:** *[cebisilecjjunior.bosman@gmail.com]*
-* **GitHub:** [your-github-profile](https://github.com/YOUR_USERNAME)
+* **GitHub:** (https://github.com/cebijuni)
 
 ---
 
