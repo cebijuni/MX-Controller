@@ -62,25 +62,26 @@ $db   = 'mx_controller';
 ## Screenshots
 
 ### Create User Page 
-![Create user](images/create_user.png)
+![Create user](create user.PNG)
 
 ### Dashboard1 Page
 ![Dashboard1]("(images/dashboard1.png")
 
 ### Dahboard2 Page
-![Dashboard2]((images/dashboard2.png)
+![Dashboard2](dashboard2.PNG)
 
 ### Devices Page
-![Devices]((images/devices.png)
+![Devices](dashboard2.PNG)
 
 ### LogIn  Page
-![Login](images/Login_page.png)
+![Login](devices.PNG)
 
 ### Logs Page
-![Logs]((images/Logs.png)
+![Logs](logs.PNG)
 
-### Users Page
-![Users]((images/users.png)
+### users Page
+![users](users.PNG)
+
 ---
 
 ## 👨‍💻 Authors
